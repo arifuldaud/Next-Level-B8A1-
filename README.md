@@ -18,8 +18,8 @@ This assignment covers practical TypeScript concepts from Modules 1, 2, and 3 th
 
 ## Blog Topics
 
-1. How Generics Work in TypeScript and Their Role in Promise<T>.
-2. TypeScript Compilation (tsc) and the Role of tsconfig.json.
+1. [How Generics Work in TypeScript and Their Role in Promise<T>](https://github.com/arifuldaud/Next-Level-B8A1-/blob/main/typescript-generics-promise.md)
+2. [TypeScript Compilation (tsc) and the Role of tsconfig.json](https://github.com/arifuldaud/Next-Level-B8A1-/blob/main/typescript-compilation-tsc-tsconfig.md)
 
 
 ## Conclusion
