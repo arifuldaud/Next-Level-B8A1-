@@ -4,17 +4,9 @@
 
 This assignment covers practical TypeScript concepts from Modules 1, 2, and 3 through 8 problem-solving tasks and 2 short blog topics.
 
-## Topics Covered
+## File
 
-- Basic Types and Union Types
-- Optional and Rest Parameters
-- Readonly Tuples
-- Type Narrowing (`typeof`)
-- Interfaces and Array Methods
-- Generics and `keyof`
-- Promises and Async/Await
-- OOP, Classes, Inheritance, and Access Modifiers
-
+- `solutions.ts` – All coding problems solved in one TypeScript file.
 
 ## Blog Topics
 
