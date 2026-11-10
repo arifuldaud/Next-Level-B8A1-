@@ -5,7 +5,7 @@ Generics in TypeScript allow us to write code that can work with different data 
 
 Generics are a very useful feature of the language. They allow you to write code which can be used with different types of data. Generics use a type parameter (T) to work with different data types.
 
-# Example Without Generics
+### Example Without Generics
 
 ```ts
 function getValue(value: string): string {
@@ -17,7 +17,7 @@ console.log(getValue("Hello TypeScript"));
 
 This function will only take string values. If we want to use numbers or booleans we'll need to write separate functions.
 
-# Example With Generics
+### Example With Generics
 
 ```ts
 function getValue<T>(value: T): T {
@@ -31,7 +31,7 @@ console.log(getValue<boolean>(true));
 
 Here the same function is used with different data types without the need to create separate functions.
 
-# Type Inference With Generics
+## Type Inference With Generics
 
 TypeScript can also work out the data type for you, without you having to specify it at all.
 
@@ -57,7 +57,7 @@ For example:
 - Fetching information from the database.
 - Awaiting completion of an async task.
 
-# Example: Generics With Promise<T>
+### Example: Generics With Promise<T>
 
 ```ts
 async function getData<T>(data: T): Promise<T> {
