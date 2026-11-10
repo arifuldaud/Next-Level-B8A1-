@@ -1,3 +1,6 @@
+
+# TypeScript Generics and Promise<T> Explained
+
 ## Introduction:
 Generics in TypeScript allow us to write code that can work with different data types. Rather than having to write a separate function for each type we might want to use, we can write one generic function which can then be used with any type. The result is simpler, more flexible and type safe code.
 

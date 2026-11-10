@@ -1,3 +1,4 @@
+# TypeScript Compilation Explained: tsc and tsconfig.json
 
 ## Introduction:
 
